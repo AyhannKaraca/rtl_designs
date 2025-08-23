@@ -1,0 +1,54 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Sat Aug 23 14:42:29 2025
+[*]
+[dumpfile] "/home/ayhan/rtl_designs/spi_master/dump.vcd"
+[dumpfile_mtime] "Sat Aug 23 14:38:37 2025"
+[dumpfile_size] 431538
+[savefile] "/home/ayhan/rtl_designs/spi_master/waveform/main.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -27 -24
+*-13.800000 8145 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_spi_master.
+[treeopen] tb_spi_master.DUT.
+[sst_width] 297
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@28
+tb_spi_master.DUT.clk_i
+tb_spi_master.DUT.rstn_i
+@22
+tb_spi_master.DUT.tx_data_i[7:0]
+tb_spi_master.mosi_sig[7:0]
+tb_spi_master.miso_sig[7:0]
+tb_spi_master.rx_data_o[7:0]
+tb_spi_master.miso_data[7:0]
+@28
+tb_spi_master.en_i
+tb_spi_master.DUT.sclk_en
+tb_spi_master.DUT.sclk_o
+tb_spi_master.DUT.done_o
+tb_spi_master.DUT.cs_o
+[color] 7
+tb_spi_master.DUT.mosi_o
+tb_spi_master.DUT.miso_i
+@23
+[color] 2
+tb_spi_master.DUT.shreg_tx[7:0]
+@22
+tb_spi_master.DUT.shreg_rx[7:0]
+@28
+tb_spi_master.DUT.state[1:0]
+tb_spi_master.DUT.busy_o
+tb_spi_master.DUT.bitcnt[2:0]
+@22
+tb_spi_master.DUT.cnt[5:0]
+@28
+tb_spi_master.DUT.last_smpl
+tb_spi_master.DUT.sclk_d
+tb_spi_master.DUT.rise
+tb_spi_master.DUT.fall
+[pattern_trace] 1
+[pattern_trace] 0
