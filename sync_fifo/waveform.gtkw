@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Wed Dec  3 01:38:08 2025
+[*]
+[dumpfile] "/home/ayhan/rtl_designs/sync_fifo/dump.vcd"
+[dumpfile_mtime] "Wed Dec  3 01:36:17 2025"
+[dumpfile_size] 2986
+[savefile] "/home/ayhan/rtl_designs/sync_fifo/waveform.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -1 -1
+*-5.248209 85 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_sync_fifo.
+[treeopen] tb_sync_fifo.DUT.
+[sst_width] 297
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 549
+@28
+tb_sync_fifo.clk_i
+tb_sync_fifo.rstn_i
+@22
+tb_sync_fifo.din_i[15:0]
+@28
+tb_sync_fifo.wr_i
+tb_sync_fifo.rd_i
+tb_sync_fifo.empty_o
+tb_sync_fifo.full_o
+@22
+tb_sync_fifo.dout_o[15:0]
+@200
+-INTERNAL
+@22
+tb_sync_fifo.DUT.fifo[0][15:0]
+tb_sync_fifo.DUT.fifo[1][15:0]
+tb_sync_fifo.DUT.fifo[2][15:0]
+tb_sync_fifo.DUT.fifo[3][15:0]
+@28
+tb_sync_fifo.DUT.cnt[2:0]
+tb_sync_fifo.DUT.wptr[1:0]
+@29
+tb_sync_fifo.DUT.rptr[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
