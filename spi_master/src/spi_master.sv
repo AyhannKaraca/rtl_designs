@@ -54,7 +54,7 @@ assign pol_pha = {CPOL,CPHA};
 
 edge_detector edge_detector_Inst(
     .clk_i (clk_i ), 
-    .rstn_i(clk_i ),
+    .rstn_i(rstn_i ),
     .in_i  (sclk_d),  
     .rise_o(rise  ),
     .fall_o(fall  )

@@ -8,7 +8,7 @@ module edge_detector(
 
 logic q;
 
-always_ff @(posedge clk_i) begin : RISE_EDGE_DEC
+always_ff @(posedge clk_i) begin : EDGE_DEC
     if(!rstn_i) begin
         q <= 0;
     end else begin
